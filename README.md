@@ -1,33 +1,41 @@
-# Olá! Eu sou o assisdev 👋
+### Olá mundo, eu sou assisdev! 👋
 
-Sou um Desenvolvedor Back-end e estudante de desenvolvimento de software, morando em Vila Velha, ES. Tenho grande paixão por criar arquiteturas eficientes, resolver problemas lógicos e construir APIs robustas.
-
-### 👨‍💻 Sobre mim
-
-- 🔭 Atualmente focado em aprofundar meus conhecimentos no ecossistema **Java** e na criação de aplicações escaláveis.
-- 🌱 Desenvolvendo projetos práticos com **Spring Boot** (como sistemas de gestão, controle de notas e afins).
-- 💬 Me pergunte sobre **Java, modelagem de banco de dados e desenvolvimento back-end**.
-- 📫 Como falar comigo: [LinkedIn](https://www.linkedin.com/in/matheus-assiss/) | [Email](matheusdonaal@gmail.com)
-
-### 🛠️ Tecnologias e Ferramentas
-
-Aqui estão as principais linguagens, frameworks e ferramentas que utilizo no meu dia a dia:
-
-**Linguagens e Frameworks**
-<br>
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-
-**Bancos de Dados**
-<br>
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-
-**Infraestrutura e IDE**
-<br>
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+**Sou estudante universitário e desenvolvedor Backend!**
 
 ---
 
+* 🎓 Atualmente sou estudante universitário com foco em desenvolvimento de software.
+* 💻 Tenho construído projetos práticos, como a criação de um sistema de gestão escolar e controle de notas utilizando Spring Boot.
+* 📚 Estou sempre aprofundando meus conhecimentos no ecossistema Java para criar arquiteturas eficientes e APIs robustas.
+* 🤝 Quero ajudar a disseminar conhecimento. Se eu puder te ajudar com alguma coisa, me avise.
+* 🎯 Metas para 2026: Me consolidar no mercado de tecnologia como desenvolvedor Back-end.
+* 🥋 Curiosidade: Sou faixa marrom de jiu-jitsu.
+
+### Conecte-se comigo 😄
+
+<a href="https://linkedin.com/in/seu-perfil" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="mailto:seu-email@exemplo.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
+### Idiomas e ferramentas 🛠️
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="35" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="35" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="35" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="35" alt="intellij logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" alt="git logo"  />
+</div>
+
+<br>
+
+### Projetos em Destaque 🚀
+
+* **Sistema de Gestão Escolar** - Desenvolvimento de uma aplicação em Spring Boot para administração acadêmica, incluindo implementação de arquitetura com services e controllers para monitoramento de notas.
